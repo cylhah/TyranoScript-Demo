@@ -1,0 +1,13 @@
+﻿/node_modules
+/dist
+/release
+/template
+/package-lock.json
+/yarn.lock
+/.idea
+/.vscode
+/.history
+
+*.DS_Store
+
+build.js
